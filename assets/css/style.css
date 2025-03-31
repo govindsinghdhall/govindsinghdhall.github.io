@@ -1880,3 +1880,11 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+.small-circle {
+  width: 50px;  /* Adjust size as needed */
+  height: 80px; /* Ensures a perfect circle */
+  border-radius: 30%;
+  object-fit: cover; /* Ensures the image fills the circle */
+  display: block;
+}
