@@ -1,44 +1,26 @@
-# vCard - Personal portfolio
+# 🌐 Personal Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my portfolio website! This site showcases my projects, skills, and experience as a software developer. It serves as a central place to learn more about me and see what I've been working on.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## 🔗 Live Demo
 
-## Demo
+[Visit My Portfolio](https://govindsinghdhall.github.io)  
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+---
 
-## Prerequisites
+## 📁 Features
 
-Before you begin, ensure you have met the following requirements:
+- ✨ Clean, modern design
+- 💼 Projects section with live links and GitHub repositories
+- 📄 Resume download option
+- 📧 Contact form integration
+- 📱 Responsive layout for mobile and desktop
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+---
 
-## Installing vCard
+## 🛠️ Tech Stack
 
-To install **vCard**, follow these steps:
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Deployment:** GitHub Pages
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+---
